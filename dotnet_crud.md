@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This challengue is prepared to test your .NET and architecture skills, we mainly observe the following points:
+This challenge is prepared to test your .NET and architecture skills, we mainly observe the following points:
 
 - Analysis
 - Coding best practices
