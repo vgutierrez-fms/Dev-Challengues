@@ -1,6 +1,31 @@
-#React Native Todo App
+# React Native Todo App
 
-## Requeriments
+## Introduction
+
+This challenge  is prepared to test your React/React Native skills, we mainly observe the following points:
+
+- Analysis
+- Coding best practices
+  - OOP
+  - Use of Components
+  - Store management
+  - UI management
+  - Mobile skills
+- Programming language knowledge and experience.
+
+# Functional Requeriments
+
+- React
+- React Native
+- Redux
+- Unit Test
+
+# Recomendations 
+
+- During the test, plan your tasks carefully in order to optimize your time. We recommend completing as many requirements as you can and focus first on the main ones and work on the optional/bonus requirements once you are happy with the implementation you have.
+- Make sure you have uploaded your code to github before the test ends.
+
+## The Problem
 
 Modify the project to accept dynamic data from an outside source. The app can either spin up a
 simple server with the hardcoded data or pull the data from any API(s) of your choice
@@ -9,13 +34,16 @@ simple server with the hardcoded data or pull the data from any API(s) of your c
 - A theme (colors, logos, font, text, etc.)
 - A tagging filter, where tasks can be tagged and sorted by urgency (not urgent to urgent)
 
-Download the project from:
-
-https://github.com/gaguayo-jala/mobile-todo-app
-
-## Tools and Language
-
-- The project should be developed using React or React Native
-- The storage layer should implement **Redux with toolkit.**
-
 Feel free to also incorporate other libraries if you'd like, and go to beyond the requeriment to be creative with the task.
+
+### Repository
+
+- Fork the project: https://github.com/gaguayo-jala/mobile-todo-app
+- Try to push your commits constantly.
+
+### How to run the project
+
+```
+npm i
+npm start
+```
