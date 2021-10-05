@@ -1,0 +1,9 @@
+@startuml
+
+user --> (Create a Blog)
+user --> (Update a Blog)
+user --> (Delete a Blog)
+user --> (List their Blogs)
+user --> (Get a Blog By Id)
+
+@enduml
