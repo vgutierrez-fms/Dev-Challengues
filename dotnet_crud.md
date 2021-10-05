@@ -31,17 +31,8 @@ This challengue is prepared to test your .NET and architecture skills, we mainly
 
 RESTful Blog App is an application that uses .NET Core to allow its user to create, read, update, and delete (CRUD) various blog posts.
 
-```
-@startuml
 
-user --> (Create a Blog)
-user --> (Update a Blog)
-user --> (Delete a Blog)
-user --> (List their Blogs)
-user --> (Get a Blog By Id)
-
-@enduml
-```
+![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/FMSystemsGroup/Dev-Challengues/main/crud.iuml?token=AM7CYKRF5ZJG7Y5SNTKRNX3BMTI42)
 
 
 - The part related to the database is free to choose among:
