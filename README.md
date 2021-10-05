@@ -6,11 +6,11 @@ Select one of the specific challengues and send the instructions to the candidat
 
 ### Time Allotment
 
-We should respect the candidate's time and don't want they spending more 3 hours on a challenge (the challenges are scoped for ~1-1.5hr timeframe). We just want to get a sense of their thought process and development patterns. If there are features they don't have time to implement, use pseudo code is allowed to describe the intended behavior.
+We should respect the candidate's time but don't want them spending more 3 hours on a challenge (the challenges are scoped for ~1-1.5hr timeframe). We just want to get a sense of their thought process and development patterns. If there are features they don't have time to implement, use pseudo code is allowed to describe the intended behavior.
 
 ### Commit History
 
-The candidate is free to choose the development workflow works best. If the solution is small enough and a single commit is justified, that's fine; we just ask that they keep their [commit history as coherent as possible](https://www.reviewboard.org/docs/codebase/dev/git/clean-commits/).
+The candidate is free to choose the development workflow that works best. If the solution is small enough and a single commit is justified, that's fine; we just ask that they keep their [commit history as coherent as possible](https://www.reviewboard.org/docs/codebase/dev/git/clean-commits/).
 
 ## What We will Review
 
