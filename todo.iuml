@@ -1,0 +1,23 @@
+@startuml
+left to right direction
+actor User as g
+
+usecase "Add a new todo item" as UC1
+
+package Active {
+  usecase "View todo items" as UC200
+  usecase "Mark todo item as completed" as UC201
+  usecase "Delete todo item" as UC202 
+}
+
+package Completed {
+  usecase "View completed items" as UC300
+}
+
+g --> UC1
+g --> UC200
+g --> UC201
+g --> UC202
+g --> UC300
+
+@enduml
