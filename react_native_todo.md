@@ -36,6 +36,8 @@ simple server with the hardcoded data or pull the data from any API(s) of your c
 
 Feel free to also incorporate other libraries if you'd like, and go to beyond the requeriment to be creative with the task.
 
+![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/FMSystemsGroup/Dev-Challengues/main/todo.iuml?token=AM7CYKTUGFORTORHU2OYWNDBMWLSO)
+
 ### Repository
 
 - Fork the project: https://github.com/gaguayo-jala/mobile-todo-app
